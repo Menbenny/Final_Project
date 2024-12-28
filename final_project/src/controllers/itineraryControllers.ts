@@ -1,5 +1,3 @@
-
-
 import { Request, Response, NextFunction } from 'express';
 import ItineraryItem from '../models/itineraryModel'; 
 import asyncHandler from 'express-async-handler';
